@@ -1,1 +1,0 @@
-# appland-practice
