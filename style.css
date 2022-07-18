@@ -367,7 +367,7 @@
   color: rgb(120, 120, 120);
 }
 
-.section_10 {
+section_9_div .section_10 {
   background-color: #f2f5fa;
   padding-bottom: 30px;
 }
@@ -719,6 +719,7 @@
 .section_10_div2 {
   padding-bottom: 50px;
   text-align: center;
+
 }
 
 .carousel-inner {
@@ -749,6 +750,22 @@
   margin-right: 90px;
 }
 
+.card1 p {
+  color: lightslategray;
+}
+
+.card1 q {
+  color: rgb(120, 120, 120);
+}
+
+.card2 p {
+  color: lightslategray;
+}
+
+.card2 q {
+  color: rgb(120, 120, 120);
+}
+
 .card2 {
   padding-top: 20px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -759,4 +776,8 @@
   height: 240px;
   padding-left: 50px;
   padding-right: 40px;
+}
+
+.section_10_1 {
+  background-color: #f2f5fa;
 }
